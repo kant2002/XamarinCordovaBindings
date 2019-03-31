@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Xamarin.Cordova.Android.Bindings</id>
+    <version>8.0.0</version>
+    <title>Xamarin.Cordova.Android.Bindings</title>
+    <authors>Andrii Kurdiumov</authors>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/kant2002/XamarinCordovaBindings</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin bindings for Cordova Android platform</description>
+    <releaseNotes>Release of Cordova 8.0.0 bindings.</releaseNotes>
+    <copyright>Copyright Andrii Kurdiumov 2019</copyright>
+    <tags>Xamarin Cordova Bindings</tags>
+  </metadata>
+</package>
